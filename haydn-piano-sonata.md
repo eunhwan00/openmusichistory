@@ -51,7 +51,8 @@ Overall, the first movement of Haydn's Piano Sonata in C Major is a vibrant and 
 ## Emotional Connection
 While the movement is upbeat and cheerful, it also contains moments of subtle expressiveness. The humor in the piece is not overt but comes through in Haydn's playful use of harmonic shifts and rhythmic surprises. Encourage performers to approach the piece with a sense of lightheartedness, allowing the music to flow naturally with a sense of optimism and joy.
 
-# Tips for Practicing [I don't think this is necessary, because this is a history book and the pieces are written in program notes style, so what matters the most is only the description of the piece and its context (historical etc)]
+# Tips for Practicing 
+[I don't think this is necessary, because this is a history book and the pieces are written in program notes style, so what matters the most is only the description of the piece and its context (historical etc)]
 ## Slow Practice
 Begin by practicing slowly to ensure that each note is clear and that phrasing and dynamics are well defined. This will help in bringing out the charm of the piece and its contrasting sections.
 
